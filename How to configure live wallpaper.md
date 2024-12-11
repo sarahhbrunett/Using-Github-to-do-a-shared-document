@@ -1,5 +1,5 @@
 ```
-How to configure a live wallpaper to your windows background
+How to configure a live wallpaper to your windows background using the lively app
 ```
 information taken from : https://answers.microsoft.com/en-us/windows/forum/all/how-to-put-live-wallpaper-on-windows-10/394f5b84-39ec-461e-9331-0465c0be00de 
 
@@ -7,7 +7,9 @@ https://www.lifewire.com/set-live-wallpaper-windows-11-8606934#:~:text=Windows%2
 
 https://www.howtogeek.com/763825/how-to-get-live-wallpapers-on-windows-11/
 
-1. Head to the Livelys microsofthome page and install the program
+Lively is a free microsoft app that can transform your Windows desktop to a live and dynamic one.
+
+1. Head to the Livelys microsoft home page and install the program
 2. Start the newly installed app.
 3. Lively has ready to use wallpapers you can chose from as the app opens.
 4. Select the wallpaper you would like to use.
